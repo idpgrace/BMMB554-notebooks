@@ -1,0 +1,16 @@
+protein_class	number_genes_affected
+calcium_binding_protein	1
+enzyme_modulator	8
+hydrolase	45
+isomerase	21
+ligase	19
+lyase	22
+membrane_traffic_protein	3
+nucleic_acid_binding	20
+oxidoreductase	62
+storage_protein	2
+structural_protein	2
+transcription_factor	21
+transfer-carrier_protein	2
+transferase	57
+transporter	57
